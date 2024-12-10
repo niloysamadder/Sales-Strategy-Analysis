@@ -1,4 +1,4 @@
-# Sales Strategy Data Analysis Project
+# Analysing Sales Strategy
 
 ## Project Overview
 This project focuses on analyzing the effectiveness of three different sales strategies (**Email**, **Call**, and **Email + Call**) used to promote a new line of office stationery products launched 6 weeks ago. The objective is to determine the most efficient sales method for maximizing revenue while considering customer reach, effort, and outcomes. The analysis includes data validation, exploratory data analysis, statistical insights, and business recommendations.
